@@ -1,0 +1,2 @@
+# cuffless-blood-pressure-measurement-machine-learning-algorithms-
+The objective of the project can be started as below:   To extract useful physiological features from Electrocardiogram (ECG) and Photoplethysmography (PPG) .   To deploy necessary signal processing algorithms to preprocess the obtained features.   To use a suitable machine learning algorithms to estimate Blood pressure.   To evaluate the performance of the model employed.
